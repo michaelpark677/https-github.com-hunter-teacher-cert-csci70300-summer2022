@@ -85,9 +85,7 @@ finding the link matching the topic name.
 	 - CT 2,3
 	 - NSD 1
 1. July 18
-    - Text
-	- 
- Sorting part 1
+   - Sorting part 1
       - Insertion / Selection sort and analysis
       - Liner and Binary Searching (Recursion revisisted) 
 
