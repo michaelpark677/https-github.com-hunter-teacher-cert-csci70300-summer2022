@@ -16,6 +16,11 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
 ## Text and related resources
 - syllabus: https://github.com/hunter-teacher-cert/csci70300-summer2022/blob/main/data-structures.md
 
+
+- Office hours
+  - Office hours will be held on the class zoom from 3:15 - 5:00 each
+    day with the exceptions of the first and last days of class.
+  
 - Primary Resources
   - https://www.javatpoint.com/data-structure-tutorial
   - https://www.geeksforgeeks.org/data-structures/
