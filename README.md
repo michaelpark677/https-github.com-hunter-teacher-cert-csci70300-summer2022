@@ -23,7 +23,7 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
 -  Additional Resources
   - https://visualgo.net/en
   - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-
+  - Data Structures video playlist: https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J
 
 - Java:
   - CS Awesome https://runestone.academy/ns/books/published//csawesome/index.htm
