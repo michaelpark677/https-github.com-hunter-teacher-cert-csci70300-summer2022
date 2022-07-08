@@ -14,7 +14,7 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
   - Last year's cohort may offer support here...
 
 ## Text and related resources
-- syllabus: https://github.com/hunter-teacher-cert/syllabi-summer-2021/blob/main/data-structures.md
+- syllabus: https://github.com/hunter-teacher-cert/csci70300-summer2022/blob/main/data-structures.md
 
 - Primary Resources
   - https://www.javatpoint.com/data-structure-tutorial
