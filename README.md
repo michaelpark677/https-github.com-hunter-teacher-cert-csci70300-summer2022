@@ -23,7 +23,7 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
 - Primary Resources
   - https://www.javatpoint.com/data-structure-tutorial
   - https://www.geeksforgeeks.org/data-structures
--  Additional Resources
+- Additional Resources
   - prettified visualizations: https://visualgo.net/en
   - clean & clear visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
   - data structures video playlist: https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J
