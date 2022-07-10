@@ -20,16 +20,13 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
 - Office hours
   - Office hours will be held on the class zoom from 3:15 - 5:00 each
     day with the exceptions of the first and last days of class.
-  
 - Primary Resources
   - https://www.javatpoint.com/data-structure-tutorial
-  - https://www.geeksforgeeks.org/data-structures/
-  
+  - https://www.geeksforgeeks.org/data-structures
 -  Additional Resources
-  - https://visualgo.net/en
-  - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-  - Data Structures video playlist: https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J
-
+  - prettified visualizations: https://visualgo.net/en
+  - clean & clear visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+  - data structures video playlist: https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J
 - Java:
   - CS Awesome https://runestone.academy/ns/books/published//csawesome/index.htm
   - Think Java (Downy, Mayfield):
