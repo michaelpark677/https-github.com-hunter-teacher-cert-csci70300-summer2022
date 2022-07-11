@@ -1,7 +1,7 @@
 # csci70300-summer2022
 main working repo for Data Structures in a High Level Language -- Summer 2022
 
-_Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily) subdirectory and have it open during each session._
+_Nota bene: This page (the "main" readme for this github repo) will display general resources. The syllabus link will have the day to day schedule as well as resources. Individual topics, assignments, and resources can be found in the topic folders (ArrayLists, Pointers, LinkedLists, etc.).
 
 
 
