@@ -63,14 +63,15 @@ finding the link matching the topic name.
 
 1. July 12
    - Introduction to Data Structures (ArrayList as a data structure)
+   - ArrayLists **Lookup: ArrayLists Java**
    - Examination of ArrayList source code
 	 - http://developer.classpath.org/doc/java/util/ArrayList-source.html
 1. July 13
-   - Introduction to pointers in Java 
+   - Introduction to pointers in Java  **Lookup: Pointers Java**
 	 - assignment: pointer diagram exercises
 1. July 14
-   1. Linked Lists 
-	 - Linked list definition
+   1. Linked Lists **Lookup: Linked Lists Java**
+	 - Linked list definition 
 	 - Node definition
 	 - Creating a linked list
 	 - Assignment: Linked list implementation
@@ -85,17 +86,19 @@ finding the link matching the topic name.
 	 - CT 2,3
 	 - NSD 1
 1. July 18
-   - Sorting part 1
+   - Sorting part 1 **Lookup: Insertion sort, Selection sort, Bubble Sort**
       - Insertion / Selection sort and analysis
       - Liner and Binary Searching (Recursion revisisted) 
+   - Searching **Lookup: linear search, binary search**
 
 1. July 19
-   - Stacks 
-   - lab / assignment: stack design
+   - Sorting continued
+
 1. July 20
-   - Queues
+   - Stacks and Queues **Lookup: Stacks and Queues**
    - lab / assignment: queue design
 1. July 21
+   - Stacks and Queues continued 
    - comparison of array and linked list stack/queue implementation
 1. July 22
    - Review of slow sorts and searches
