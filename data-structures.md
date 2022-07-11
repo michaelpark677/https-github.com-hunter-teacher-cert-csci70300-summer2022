@@ -19,7 +19,7 @@ their applications relevant in a classroom setting.
 
 	
 ## Schedule
-	- July 12 - Augyst 2, Monday - Friday 9:00 - 11:30 
+	- July 12 - August 2, Monday - Friday 9:00 - 11:30 
 
 
 ## Grading
