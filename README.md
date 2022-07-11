@@ -1,5 +1,5 @@
 # csci70300-summer2022
-main working repo for Data Structures in a High Level Language -- Summer 2021
+main working repo for Data Structures in a High Level Language -- Summer 2022
 
 _Nota bene: This page (the "main" readme for this github repo) will display general resources. For day-to-day affairs, including assignments and code, you will want to bookmark the ["daily"](https://github.com/hunter-teacher-cert/csci70900-summer2021/tree/main/daily) subdirectory and have it open during each session._
 
@@ -8,28 +8,23 @@ _Nota bene: This page (the "main" readme for this github repo) will display gene
 ## Discussion
 - standing zoom session: https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09
 - slack: https://hunterteacher-vyz6159.slack.com/
-  - real-time chat during live sessions ( __Use instead of zoomchat!__
- )
+  - real-time chat during live sessions ( __Use instead of zoomchat!__ )
   - asynchronous communication between sessions
-  - Last year's cohort may offer support here...
+  - Prior cohorts may offer support here...
 
 ## Text and related resources
 - syllabus: https://github.com/hunter-teacher-cert/csci70300-summer2022/blob/main/data-structures.md
 
-
 - Office hours
   - Office hours will be held on the class zoom from 3:15 - 5:00 each
     day with the exceptions of the first and last days of class.
-  
 - Primary Resources
   - https://www.javatpoint.com/data-structure-tutorial
-  - https://www.geeksforgeeks.org/data-structures/
-  
--  Additional Resources
-  - https://visualgo.net/en
-  - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-  - Data Structures video playlist: https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J
-
+  - https://www.geeksforgeeks.org/data-structures
+- Additional Resources
+  - prettified visualizations: https://visualgo.net/en
+  - clean & clear visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+  - data structures video playlist: https://www.youtube.com/playlist?list=PLsyeobzWxl7oRKwDi7wjrANsbhTX0IK0J
 - Java:
   - CS Awesome https://runestone.academy/ns/books/published//csawesome/index.htm
   - Think Java (Downy, Mayfield):
