@@ -107,29 +107,31 @@ public class AlPractice{
 
 
 
-  public static void main(String[] args) {
+public static void main(String[] args) {
 
     ArrayList<Integer> al;
 
-    // Uncomment these to test buildRandomList
+    //Uncomment these to test buildRandomList
     //al = buildRandomList(10,100);
     //System.out.println(al);
 
-    // Uncomment these to test swapElements
-    // swapElements(2,6);
+    //Uncomment these to test swapElements
+    //swapElements(al,2,6); // NOTE: had to include al
     //System.out.println(al);
 
     // Uncomment these to test removeValue
-    // al.add(5);
-    // al.add(10);
-    // al.add(5);
-    // al.add(13);
-    // al.set(2,5);
-    // al.set(3,5);
-    // System.out.println(a);
-    // removeValue(al,5);
-    // System.out.println(a);
+    //al.add(5);
+    //al.add(10);
+    //al.add(5);
+    //al.add(13);
+    //al.set(2,5);
+    //al.set(3,5);
+    //System.out.println(al); //NOTE:  this was listed as a, not al
+    //removeValue(al,5);
+    //System.out.println(al); //NOTE:  this was listed as a, not al
 
   }
+
+
 
 }
