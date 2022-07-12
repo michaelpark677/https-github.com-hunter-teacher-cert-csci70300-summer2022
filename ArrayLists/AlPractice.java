@@ -51,6 +51,8 @@ public class AlPractice{
   Parameters:
   - dataList - an ArrayList of Integers
   - index1, index2 - the two locations to swap.
+  Preconditions:
+  - index1 and index2 are valid indecies of dataList
   Postconditions:
   - The ArrayList is modified such that
     The value that was in dataList[index1] is now in dataList[index2], and
