@@ -48,16 +48,6 @@ Given this diagram:
     |     |     |        |     |     |    |     |     |     |     |     | 
     +-----+-----+        +-----+-----+    +-----+-----+     +-----+-----+ 
 #+end_example
-#+begin_src ditaa :file list.png
-  p--+
-     |
-	  v
-    +-----+-----+        +-----+-----+    +-----+-----+     +-----+-----+ 
-    | 5   |     |------->| 10  |     |--->| 15  |     |---->| 20  |     | 
-    |     |     |        |     |     |    |     |     |     |     |     | 
-    +-----+-----+        +-----+-----+    +-----+-----+     +-----+-----+ 
-#+end_src
-
 Write a code fragment to:
 1. Create a new Node variable  set it to point to the node with the 10 in it.
 2. Create a new Node variable and instantiate it to a new Node with a
