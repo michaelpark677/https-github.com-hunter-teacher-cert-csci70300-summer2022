@@ -39,6 +39,15 @@ Once again, share the diagram with your room.
 
 Given this diagram:
 
+#+begin_example
+  p--+
+     |
+     v
+    +-----+-----+        +-----+-----+    +-----+-----+     +-----+-----+ 
+    | 5   |     |------->| 10  |     |--->| 15  |     |---->| 20  |     | 
+    |     |     |        |     |     |    |     |     |     |     |     | 
+    +-----+-----+        +-----+-----+    +-----+-----+     +-----+-----+ 
+#+end_example
 #+begin_src ditaa :file list.png
   p--+
      |
