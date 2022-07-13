@@ -2,35 +2,32 @@ import java.io.*;
 import java.util.*;
 
 /**
+  For all attempted methods, make sensible decisions for error and
+  edge cases (such as indexing out of bounds).
 
-   For all attempted methods, make sensible decisions for error and
-   edge cases (such as indexing out of bounds).
-   
-   Basic
-   -----
-   add(string value)
-   get(int index);
-   indexOf(String value);
-   
-   
-   Intermediate (at least add, size + one of the other two)
-   ------------
-   add(int index,String value)
-   size()
-   toString()
-   toArray()
+  Basic
+  -----
+  add(string value)
+  get(int index);
+  indexOf(String value);
 
-   
-   Challenge
-   --------
-   remove(int index);
-   
+
+  Intermediate (at least add, size + one of the other two)
+  ------------
+  add(int index,String value)
+  size()
+  toString()
+  toArray()
+
+
+  Challenge
+  --------
+  remove(int index);
 */
 
 public class LinkedList{
 
   private Node head;
-
 
   public LinkedList(){
     head = null;
@@ -48,11 +45,44 @@ public class LinkedList{
   }
 
   /**
+  Returns the String in the node at location index.
+  */
+  public String get(int index){
+  }
+
+  /**
   returns the number of elements in the lsit
   */
   public int size(){
     return 0;
   }
+
+
+  /**
+  Returns the index (location) of the first node in the list
+  that contains value.
+
+  Example:
+  Given the list:
+  "a"->"b"->"c"->"d"->"e"
+  indexOf("d") would return 3 since "d" is at location 3.
+
+  */
+  public int indexOf(String value){
+    return 0;
+  }
+
+
+
+  /**
+  Return a string representation of the list
+  */
+  public String toString(){
+    return "";
+  }
+
+
+
 
   /**
   Parameters:
@@ -72,12 +102,21 @@ public class LinkedList{
   public void add(int index, String value){
   }
 
+
+
   /**
-  Returns the String in the node at location index.
+  This routine should create a new array that is the same
+  size as the number of Nodes in the list.
+
+  It should then copy all of the values to the array and return
+  the array.
 
   */
-  public void get(int index){
+  public String[] toArray(){
+    return null;
   }
+
+
 
   /**
   Remove the Node at location index from the list.
@@ -92,39 +131,5 @@ public class LinkedList{
   */
   public void remove(int index){
   }
-
-  /**
-  Returns the index (location) of the first node in the list
-  that contains value.
-
-  Example:
-  Given the list:
-  "a"->"b"->"c"->"d"->"e"
-  indexOf("d") would return 3 since "d" is at location 3.
-
-  */
-  public int indexOf(String value){
-    return 0;
-  }
-
-  /**
-  This routine should create a new array that is the same
-  size as the number of Nodes in the list.
-
-  It should then copy all of the values to the array and return
-  the array.
-
-  */
-  public String[] toArray(){
-    return null;
-  }
-
-  /**
-  Return a string representation of the list
-  */
-  public String toString(){
-    return "";
-  }
-
-
+  
 }
