@@ -32,7 +32,7 @@ public class Node{
     this.data = data;
   }
 
-  public void setNext(Node next){
+  public String setNext(Node next){
     this.next = next;
   }
 
