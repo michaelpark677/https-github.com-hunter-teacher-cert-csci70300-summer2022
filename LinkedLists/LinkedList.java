@@ -76,7 +76,7 @@ public class LinkedList{
   Returns the String in the node at location index.
 
   */
-  public void get(int index){
+  public String get(int index){
   }
 
   /**
