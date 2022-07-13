@@ -31,7 +31,6 @@ public class LinkedList{
 
   public LinkedList(){
     head = null;
-
   }
 
   /**
@@ -48,13 +47,14 @@ public class LinkedList{
   Returns the String in the node at location index.
   */
   public String get(int index){
+	return "";
   }
 
   /**
   returns the number of elements in the lsit
   */
   public int size(){
-    return 0;
+	return 0;
   }
 
 
@@ -69,7 +69,7 @@ public class LinkedList{
 
   */
   public int indexOf(String value){
-    return 0;
+	return 0;
   }
 
 
@@ -78,7 +78,7 @@ public class LinkedList{
   Return a string representation of the list
   */
   public String toString(){
-    return "";
+	return "";
   }
 
 
@@ -100,6 +100,7 @@ public class LinkedList{
 
   */
   public void add(int index, String value){
+
   }
 
 
@@ -131,5 +132,4 @@ public class LinkedList{
   */
   public void remove(int index){
   }
-  
 }
