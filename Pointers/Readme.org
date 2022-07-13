@@ -39,15 +39,17 @@ Once again, share the diagram with your room.
 
 Given this diagram:
 
-#+begin_src ditaa :file list.png
+#+begin_example
   p--+
      |
-	  v
+     v
     +-----+-----+        +-----+-----+    +-----+-----+     +-----+-----+ 
     | 5   |     |------->| 10  |     |--->| 15  |     |---->| 20  |     | 
     |     |     |        |     |     |    |     |     |     |     |     | 
     +-----+-----+        +-----+-----+    +-----+-----+     +-----+-----+ 
-#+end_src
+#+end_example
+
+There already exists a Node variable P which points to (refers to) the node with the 5 in its data.
 
 Write a code fragment to:
 1. Create a new Node variable  set it to point to the node with the 10 in it.

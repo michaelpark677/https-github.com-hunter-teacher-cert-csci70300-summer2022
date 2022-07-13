@@ -31,7 +31,7 @@ B- or B+ on loops for completing Nim.  However, if you complete another assignme
 | Assignment                 | Concepts covered grade level earned for concept if completed |
 |----------------------------|--------------------------------------------------------------|
 | ArrayLists (Basic)         | B                                                            |
-| ArrayLists (Intermediate)  | A                                                            |
+| ArrayLists (Intermediate)  | A (only swapElements required for A, removeValue has been    |                                                 |                            | changed to Challenge level and is optional).                 |
 |----------------------------|--------------------------------------------------------------|
 | Pointer Assignment         | Required                                                     |
 |----------------------------|--------------------------------------------------------------|
