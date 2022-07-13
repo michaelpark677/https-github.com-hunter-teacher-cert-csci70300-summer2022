@@ -48,6 +48,9 @@ Given this diagram:
     |     |     |        |     |     |    |     |     |     |     |     | 
     +-----+-----+        +-----+-----+    +-----+-----+     +-----+-----+ 
 #+end_example
+
+There already exists a Node variable P which points to (refers to) the node with the 5 in its data.
+
 Write a code fragment to:
 1. Create a new Node variable  set it to point to the node with the 10 in it.
 2. Create a new Node variable and instantiate it to a new Node with a
